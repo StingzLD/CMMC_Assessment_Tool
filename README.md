@@ -1,4 +1,4 @@
-# CMMC_Assessment_Tool
+# CMMC Assessment Tool
 
 ## Contents
 
