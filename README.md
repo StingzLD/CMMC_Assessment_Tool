@@ -1,5 +1,13 @@
 # CMMC_Assessment_Tool
 
+## Contents
+
+* [Instructions](https://github.com/StingzLD/CMMC_Assessment_Tool#instructions)
+* [Terms and Conditions](https://github.com/StingzLD/CMMC_Assessment_Tool#terms-and-conditions)
+
+
+
+
 ## Instructions
 
 The CMMC Assessment Tool was designed as an easy way to perform a self assessment of the controls for the Cybersecurity Maturity Model Certification DoD regulation Levels 1-3.
@@ -27,6 +35,8 @@ The Control Implemented menu presents the options corresponding to implementatio
 In addition to the assessing the completion of the CMMC controls and objectives, this tool also automatically calculate the SPRS score required to be sumbitted as part of DFARS Case 2019-D041 CMMC Interim Rule. The SPRS score is calculated based on the controls implemented and their associated point values, as determined by the NIST SP 800-171 DoD Assessment Methodology Version 1.2.
 
 *** Please note that this is a self assessment, and as such, you will not be compliant until a Certified CMMC Assessor has performed an audit on your envionrment and determined that all controls have been fully implemented.
+
+
 
 
 ## TERMS AND CONDITIONS
