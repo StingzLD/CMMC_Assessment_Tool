@@ -17,20 +17,20 @@ The Assessment Tool is broken up into multiple sections, each representing one o
 Each domain's section comprises of a list of controls and their respective objectives, as listed in CMMC Assessment Guide Version 1.10. Each objective has two drop-down menus associated with it: Policy Defined and Control Implemented. The options in the lists are weighted to provide a more accurate representation of the progress made towards becoming compliant. The description for each option in those menus is listed below.
 
 The Policy Defined menu presents the options corresponding to a written policy for its objective.	
-        No Policy:                  There is no policy in place, either written or oral.
-        Informal Policy:            There is an oral policy in place, but no written policy.
-        Partially Written Policy:   Only a partially written policy has been created.
-        Written Policy:             A written policy has been created, but it has not officially been approved.
-        Approved Written Policy:    A written policy has been created and officially been approved.
-        N/A:                        The Policy for this objective is not applicable to the business.
+&ensp;&ensp;No Policy:                  There is no policy in place, either written or oral.
+&ensp;&ensp;Informal Policy:            There is an oral policy in place, but no written policy.
+&ensp;&ensp;Partially Written Policy:   Only a partially written policy has been created.
+&ensp;&ensp;Written Policy:             A written policy has been created, but it has not officially been approved.
+&ensp;&ensp;Approved Written Policy:    A written policy has been created and officially been approved.
+&ensp;&ensp;N/A:                        The Policy for this objective is not applicable to the business.
 	
 The Control Implemented menu presents the options corresponding to implementation of the controls for its objective.	
-        Not Implemented:            No control has been implemented.
-        Partially Implemented:      Only part of the Policy for this objective has been implemented.
-        Implemented on Some:        All parts of the Policy has been implemented, but only on some systems/areas.
-        Implemented on Most:        All parts of the Policy has been implemented on most systems/areas.
-        Implemented on All:         All parts of the Policy has been implemented on all systems/areas.
-        N/A:                        The Policy for this objective is not applicable to the business.
+&ensp;&ensp;Not Implemented:            No control has been implemented.
+&ensp;&ensp;Partially Implemented:      Only part of the Policy for this objective has been implemented.
+&ensp;&ensp;Implemented on Some:        All parts of the Policy has been implemented, but only on some systems/areas.
+&ensp;&ensp;Implemented on Most:        All parts of the Policy has been implemented on most systems/areas.
+&ensp;&ensp;Implemented on All:         All parts of the Policy has been implemented on all systems/areas.
+&ensp;&ensp;N/A:                        The Policy for this objective is not applicable to the business.
 
 In addition to the assessing the completion of the CMMC controls and objectives, this tool also automatically calculate the SPRS score required to be sumbitted as part of DFARS Case 2019-D041 CMMC Interim Rule. The SPRS score is calculated based on the controls implemented and their associated point values, as determined by the NIST SP 800-171 DoD Assessment Methodology Version 1.2.
 
