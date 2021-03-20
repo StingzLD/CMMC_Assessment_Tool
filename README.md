@@ -32,7 +32,7 @@ The Control Implemented menu presents the options corresponding to implementatio
 
 In addition to the assessing the completion of the CMMC controls and objectives, this tool also automatically calculate the SPRS score required to be sumbitted as part of DFARS Case 2019-D041 CMMC Interim Rule. The SPRS score is calculated based on the controls implemented and their associated point values, as determined by the NIST SP 800-171 DoD Assessment Methodology Version 1.2.
 
-__**Please note that this is a self assessment, and as such, you will not be compliant until a Certified CMMC Assessor has performed an audit on your envionrment and determined that all controls have been fully implemented.**__
+__*Please note that this is a self assessment, and as such, you will not be compliant until a Certified CMMC Assessor has performed an audit on your envionrment and determined that all controls have been fully implemented.*__
 
 
 ## TERMS AND CONDITIONS
