@@ -15,20 +15,20 @@ The Assessment Tool is broken up into multiple sections, each representing one o
 Each domain's section comprises of a list of controls and their respective objectives, as listed in CMMC Assessment Guide Version 1.10. Each objective has two drop-down menus associated with it: Policy Defined and Control Implemented. The options in the lists are weighted to provide a more accurate representation of the progress made towards becoming compliant. The description for each option in those menus is listed below.
 
 The Policy Defined menu presents the options corresponding to a written policy for its objective.
-    * No Policy:                  There is no policy in place, either written or oral.
-    * Informal Policy:            There is an oral policy in place, but no written policy.
-    * Partially Written Policy:   Only a partially written policy has been created.
-    * Written Policy:             A written policy has been created, but it has not officially been approved.
-    * Approved Written Policy:    A written policy has been created and officially been approved.
-    * N/A:                        The Policy for this objective is not applicable to the business.
+* No Policy:                  There is no policy in place, either written or oral.
+* Informal Policy:            There is an oral policy in place, but no written policy.
+* Partially Written Policy:   Only a partially written policy has been created.
+* Written Policy:             A written policy has been created, but it has not officially been approved.
+* Approved Written Policy:    A written policy has been created and officially been approved.
+* N/A:                        The Policy for this objective is not applicable to the business.
 	
 The Control Implemented menu presents the options corresponding to implementation of the controls for its objective.
-    * Not Implemented:            No control has been implemented.
-    * Partially Implemented:      Only part of the Policy for this objective has been implemented.
-    * Implemented on Some:        All parts of the Policy has been implemented, but only on some systems/areas.
-    * Implemented on Most:        All parts of the Policy has been implemented on most systems/areas.
-    * Implemented on All:         All parts of the Policy has been implemented on all systems/areas.
-    * N/A:                        The Policy for this objective is not applicable to the business.
+* Not Implemented:            No control has been implemented.
+* Partially Implemented:      Only part of the Policy for this objective has been implemented.
+* Implemented on Some:        All parts of the Policy has been implemented, but only on some systems/areas.
+* Implemented on Most:        All parts of the Policy has been implemented on most systems/areas.
+* Implemented on All:         All parts of the Policy has been implemented on all systems/areas.
+* N/A:                        The Policy for this objective is not applicable to the business.
 
 In addition to the assessing the completion of the CMMC controls and objectives, this tool also automatically calculate the SPRS score required to be sumbitted as part of DFARS Case 2019-D041 CMMC Interim Rule. The SPRS score is calculated based on the controls implemented and their associated point values, as determined by the NIST SP 800-171 DoD Assessment Methodology Version 1.2.
 
@@ -41,7 +41,7 @@ This tool is offered without warranty or guarantee as to its accuracy, as a usef
 
 The Terms and Conditions set out below apply to the use of CMMC Assessment Tool. By using the CMMC Assessment Tool, you agree that you have read and accept these terms and conditions. If you do not agree to these Terms and Conditions, do not use the CMMC Assessment Tool.
 
-### 1. Disclaimer
+### Disclaimer
 
 1. All reasonable efforts were made to ensure that the information provided is free of errors and up to date, but it gives no guarantees as to the accuracy and completeness of that information or its fitness for any purpose whatsoever.
 
@@ -49,7 +49,7 @@ The Terms and Conditions set out below apply to the use of CMMC Assessment Tool.
 
 3. The tool is provided ‘as is’, without any conditions, warranties or other terms of any kind. Accordingly, to the maximum extent permitted by law, you are provided with the tool on the basis that excludes all representations, warranties conditions, and other terms for which this legal notice might have effect in relation with the tool.
 
-### 2. Liability
+### Liability
 
 1. No liability will be accepted for any loss or damage arising from the use of the tool.
 
