@@ -6,8 +6,6 @@
 * [Terms and Conditions](https://github.com/StingzLD/CMMC_Assessment_Tool#terms-and-conditions)
 
 
-
-
 ## Instructions
 
 The CMMC Assessment Tool was designed as an easy way to perform a self assessment of the controls for the Cybersecurity Maturity Model Certification DoD regulation Levels 1-3.
@@ -16,27 +14,25 @@ The Assessment Tool is broken up into multiple sections, each representing one o
 
 Each domain's section comprises of a list of controls and their respective objectives, as listed in CMMC Assessment Guide Version 1.10. Each objective has two drop-down menus associated with it: Policy Defined and Control Implemented. The options in the lists are weighted to provide a more accurate representation of the progress made towards becoming compliant. The description for each option in those menus is listed below.
 
-The Policy Defined menu presents the options corresponding to a written policy for its objective.	
-        No Policy:                  There is no policy in place, either written or oral.
-        Informal Policy:            There is an oral policy in place, but no written policy.
-        Partially Written Policy:   Only a partially written policy has been created.
-        Written Policy:             A written policy has been created, but it has not officially been approved.
-        Approved Written Policy:    A written policy has been created and officially been approved.
-        N/A:                        The Policy for this objective is not applicable to the business.
+The Policy Defined menu presents the options corresponding to a written policy for its objective.
+    * No Policy:                  There is no policy in place, either written or oral.
+    * Informal Policy:            There is an oral policy in place, but no written policy.
+    * Partially Written Policy:   Only a partially written policy has been created.
+    * Written Policy:             A written policy has been created, but it has not officially been approved.
+    * Approved Written Policy:    A written policy has been created and officially been approved.
+    * N/A:                        The Policy for this objective is not applicable to the business.
 	
-The Control Implemented menu presents the options corresponding to implementation of the controls for its objective.	
-        Not Implemented:            No control has been implemented.
-        Partially Implemented:      Only part of the Policy for this objective has been implemented.
-        Implemented on Some:        All parts of the Policy has been implemented, but only on some systems/areas.
-        Implemented on Most:        All parts of the Policy has been implemented on most systems/areas.
-        Implemented on All:         All parts of the Policy has been implemented on all systems/areas.
-        N/A:                        The Policy for this objective is not applicable to the business.
+The Control Implemented menu presents the options corresponding to implementation of the controls for its objective.
+    * Not Implemented:            No control has been implemented.
+    * Partially Implemented:      Only part of the Policy for this objective has been implemented.
+    * Implemented on Some:        All parts of the Policy has been implemented, but only on some systems/areas.
+    * Implemented on Most:        All parts of the Policy has been implemented on most systems/areas.
+    * Implemented on All:         All parts of the Policy has been implemented on all systems/areas.
+    * N/A:                        The Policy for this objective is not applicable to the business.
 
 In addition to the assessing the completion of the CMMC controls and objectives, this tool also automatically calculate the SPRS score required to be sumbitted as part of DFARS Case 2019-D041 CMMC Interim Rule. The SPRS score is calculated based on the controls implemented and their associated point values, as determined by the NIST SP 800-171 DoD Assessment Methodology Version 1.2.
 
-*** Please note that this is a self assessment, and as such, you will not be compliant until a Certified CMMC Assessor has performed an audit on your envionrment and determined that all controls have been fully implemented.
-
-
+__**Please note that this is a self assessment, and as such, you will not be compliant until a Certified CMMC Assessor has performed an audit on your envionrment and determined that all controls have been fully implemented.**__
 
 
 ## TERMS AND CONDITIONS
@@ -60,6 +56,6 @@ The Terms and Conditions set out below apply to the use of CMMC Assessment Tool.
 2. All liability and responsibility will be excluded for any amount or kind of loss and damage that may result to you or a third party (including without limitation, any direct, indirect, punitive, or consequential loss or damages), or loss of income, profits, goodwill, time, data, contracts, use of money, or loss or damages from or connected in any way to business interruption, and whether in tort (including, without limitation, negligence), contract, or otherwise in connection with the use, or inability to use, the results of the CMMC Assessment Tool, including but not limited to loss or damage due to viruses that may infect your computer equipment, software, data, or other property on account of your downloading and use of the CMMC Assessment Tool.
 
 3. Nothing in these terms and conditions shall exclude or limit liability for:
-    5.3.1 death or personal injury caused by negligence;
-    5.3.2 fraud; and
-    5.3.3 any liability, which cannot be excluded or limited under applicable law.
+    1. death or personal injury caused by negligence;
+    2. fraud; and
+    3. any liability, which cannot be excluded or limited under applicable law.
